@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "Classroom",
+    "CourseNumber": "C#101",
+    "Title": "Intro to C#",
+    "DurationWeeks": 8,
+    "StartDate": "2026-11-02T00:00:00",
+    "EndDate": "2026-12-18T00:00:00",
+    "Staff": "Jonas Falk"
+  },
+  {
+    "Type": "Distance",
+    "CourseNumber": "C#102",
+    "Title": "C# online",
+    "DurationWeeks": 8,
+    "StartDate": "2026-11-02T00:00:00",
+    "EndDate": "2026-12-18T00:00:00",
+    "Staff": "Jonas Falk"
+  }
+]

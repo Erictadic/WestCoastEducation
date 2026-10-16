@@ -1,0 +1,14 @@
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.AssemblyInfoInputs.cache
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.AssemblyInfo.cs
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.csproj.CoreCompileInputs.cache
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\bin\Debug\net10.0\WCEapp.exe
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\bin\Debug\net10.0\WCEapp.deps.json
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\bin\Debug\net10.0\WCEapp.runtimeconfig.json
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\bin\Debug\net10.0\WCEapp.dll
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\bin\Debug\net10.0\WCEapp.pdb
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.dll
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\refint\WCEapp.dll
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.pdb
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\WCEapp.genruntimeconfig.cache
+C:\Users\utber\Documents\Lektioner\WestCoastEducation\WCEapp\obj\Debug\net10.0\ref\WCEapp.dll
